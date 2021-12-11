@@ -15,7 +15,7 @@ this code is to serialize a json file into an object and provide operations to b
 
 ## General Information
 
-- I used **C++** here becasue it has **OOP** and **pointers** which make life :D
+- I used **C++** here becasue it has **OOP** and **pointers** which make life easy :D
 - also i belive if i can solve a probem in C/C++ so i can do it with any other language
 - this code runs under **Ubuntu 21** which packed with **g++ version 11.2.0** and **GNU Make 4.3**
 <!-- - also it is a statically type language so i can make use of it with functional programming codes -->

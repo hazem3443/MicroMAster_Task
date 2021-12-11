@@ -16,12 +16,12 @@ a python script plotting inputed function formula with x cartesian coordinate in
 
 ## General Information
 
-- python is an easy programming language and have a powerfull comunity in all software tracks so i selected python because of my previous knowledge of Qt and tkinter
-- her ei used python 3.9.7 packed with **Ubuntu 21**
+- python is an easy programming language and have a powerfull comunity also i selected python because of my previous knowledge of Qt and tkinter
+- here i used python 3.9.7 packed with **Ubuntu 21**
 
 ## Technologies Used
 
-- here i used **regex**, **Tkinter**, **matplotlib** and **numpy** packages along with **python3.9.7**
+- here i used **regex**, **Tkinter**, **matplotlib** and **numpy** packages
 
 ## Features
 
