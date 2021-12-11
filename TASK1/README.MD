@@ -30,11 +30,11 @@ a python script plotting inputed function formula with x cartesian coordinate in
 
 ## Screenshots
 
-![no X args parallel to x line](I1.png)
-![first order eq](I2.png)
-![symbole validation](I3.png)
-![second order eq](I4.png)
-![plus & minus x axis](I5.png)
+![no X args parallel to x line](./screenshots/I1.png)
+![first order eq](./screenshots/I2.png)
+![symbole validation](./screenshots/I3.png)
+![second order eq](./screenshots/I4.png)
+![plus & minus x axis](./screenshots/I5.png)
 
 ## Setup
 
